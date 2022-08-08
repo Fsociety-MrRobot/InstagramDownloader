@@ -1,7 +1,7 @@
 import sys
 from colorama import Fore
-from addtionalFiles.postsDownload import GetPosts
-from addtionalFiles.profilePhotoDownload import GetProfilePhoto 
+from postsDownload import GetPosts
+from profilePhotoDownload import GetProfilePhoto 
 
 
 class Downloader:
